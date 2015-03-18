@@ -1,5 +1,3 @@
-package week3test1;
-
 import java.util.Scanner;
 import static java.lang.System.*;
 import java.util.*;
